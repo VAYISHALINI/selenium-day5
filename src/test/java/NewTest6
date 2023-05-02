@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="methods" name="Suite" thread-count="3">
+  <test name="Test">
+    <classes>
+      <class name="com.example.demo.newpro.NewTest6"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
